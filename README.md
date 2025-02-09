@@ -1,4 +1,4 @@
-# AI for Executives
+# AI Technology for Executive Leadership
 
 This is the working repository for the **AI for Executives Class**
 
