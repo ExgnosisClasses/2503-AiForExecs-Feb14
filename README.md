@@ -8,3 +8,5 @@ This is the working repository for the **AI for Executives Class**
 - The repository will be used by _both_ of the classes taking the course. There will separate folders for class specific materials
 - The _References_ folder will contain additional materials and reading lists. This will grow as the class progresses
 - All material in the repository is either courseware or published under a creative commons or other similar license that allows for free sharing
+
+### Please note the addition of the Updates.md file with current info about the class.
