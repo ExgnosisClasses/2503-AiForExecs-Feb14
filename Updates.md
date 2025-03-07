@@ -1,4 +1,18 @@
-# Updates February 21
+# Updates March 7
+
+## Lab Machines
+
+The login is located at [https://my.ablazedesktop.com/](https://my.ablazedesktop.com/)
+
+The password is TEKpyt2501!
+
+Your machine assignment is in the spreadsheet  `Machines` in the repo 
+
+## Office Hour
+
+The choices to be voted on to day are 10am-11am or 2pm-3pm on any day from Monday-Thurs next week
+
+Updates February 21
 
 I will be updating this file regularly to keep the class informed of upcoming events and plans for the course.
 
